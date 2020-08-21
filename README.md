@@ -194,11 +194,11 @@ This is a list of awesome demos, tutorials, utilities and overall resources for 
 <tbody>
 <tr class="odd">
 <td><ul>
-<li><a href="https://www.mathworks.com/videos/matlab-and-simulink-robotics-arena-direction-of-arrival-with-matlab-1504107605701.html">Estimating Direction of Arrival for AUV’s</a></li>
+<li><a href="https://www.mathworks.com/videos/matlab-and-simulink-robotics-arena-direction-of-arrival-with-matlab-1504107605701.html">Estimating Direction of Arrival for AUVÂ’s</a></li>
 <li><a href="https://www.mathworks.com/videos/matlab-and-simulink-robotics-arena-from-data-to-model-1518156121608.html">System Identification for Blue Robotics Thrusters</a></li>
 <li><a href="https://www.mathworks.com/videos/matlab-and-simulink-robotics-arena-lqr-control-of-an-autonomous-underwater-vehicle-1543831839770.html">LQR Control of an AUV</a></li>
-<li><a href="https://www.mathworks.com/videos/modeling-and-simulation-of-an-autonomous-underwater-vehicle-1586937688878.html">Modeling, Simulation and Control of AUV’s</a> (<a href="https://github.com/mathworks/AUV-modeling-and-sim">GitHub Repo</a>)</li>
-<li><a href="https://blogs.mathworks.com/racing-lounge/2019/03/18/modeling-robotic-boats-in-simulink/">Modeling Robotic Boats in Simulink</a></li>
+<li><a href="https://www.mathworks.com/videos/modeling-and-simulation-of-an-autonomous-underwater-vehicle-1586937688878.html">Modeling, Simulation and Control of AUVÂ’s</a> (<a href="https://github.com/mathworks/AUV-modeling-and-sim">GitHub Repo</a>)</li>
+<li><a href="https://blogs.mathworks.com/racing-lounge/2019/03/18/modeling-robotic-boats-in-simulink/">Modeling Robotic Boats in Simulink</a> (<a href="https://github.com/alexglzg/simulink-usv-model">GitHub Repo</a>)</li>
 <li><a href="https://blogs.mathworks.com/racing-lounge/2018/12/10/vmrc-getting-started/">Simulation and Control of RobotX Challenge WAM-V Boats</a></li>
 </ul></td>
 <td><img src="images/marine.png" style="width:1.77083in;height:2.03068in" /></td>
@@ -233,7 +233,7 @@ This is a list of awesome demos, tutorials, utilities and overall resources for 
 <tbody>
 <tr class="odd">
 <td><ul>
-<li><strong>ROS – Based Simulators</strong> (<span class="underline">See Section Below</span>)</li>
+<li><strong>ROS Â– Based Simulators</strong> (<span class="underline">See Section Below</span>)</li>
 <li><a href="https://www.mathworks.com/help/robotics/examples/perform-co-simulation-between-simulink-and-gazebo.html">Gazebo Co-Simulation</a></li>
 <li><a href="https://www.mathworks.com/help/driving/unreal-engine-driving-scenario-simulation.html">UNREAL-Engine-Based Scenarios for Automated Driving</a></li>
 <li><a href="https://github.com/mathworks-robotics/mobile-robotics-simulation-toolbox">Mobile Robotics Simulation Toolbox (GitHub Repo)</a></li>
