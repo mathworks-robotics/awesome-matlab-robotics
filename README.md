@@ -1,6 +1,6 @@
 # Awesome MATLAB and Simulink Robotics
 
-This is a list of awesome demos, tutorials, utilities and overall resources for the robotics community that use MATLAB and Simulink. For more information and to get your projects included in this list, reach out to <roboticsarena@mathworks.com>
+This is a list of awesome demos, tutorials, utilities and overall resources for the robotics community that use MATLAB&reg; and Simulink&reg;. For more information and to get your projects included in this list, reach out to <roboticsarena@mathworks.com>
 
 - [**By Applications Areas**](#by-applications-areas)
   * [Ground Vehicles and Mobile Robotics](#ground-vehicles-and-mobile-robotics)
@@ -86,7 +86,7 @@ This is a list of awesome demos, tutorials, utilities and overall resources for 
 <tbody>
 <tr class="odd">
 <td><ul>
-<li><a href="https://www.mathworks.com/products/simscape.html">Simscape Tools for Modeling and Simulation of Physical Systems</a></li>
+<li><a href="https://www.mathworks.com/products/simscape.html">Simscape&trade; Tools for Modeling and Simulation of Physical Systems</a></li>
 <li><a href="https://www.mathworks.com/matlabcentral/fileexchange/61370-robot-arm-with-conveyor-belts">Simulate Manipulator Actuators and Tune Control Parameters</a></li>
 <li><a href="https://www.mathworks.com/help/robotics/examples/model-and-control-a-manipulator-arm-with-simscape.html">Algorithm Verification Using Robot Models</a></li>
 <li><a href="https://www.mathworks.com/help/robotics/ref/importrobot.html">Import Robots to MATLAB from URDF Files</a></li>
@@ -286,16 +286,16 @@ This is a list of awesome demos, tutorials, utilities and overall resources for 
 
 # By Relevant MATLAB Toolboxes
 
-  - [Robotics System Toolbox](https://www.mathworks.com/help/robotics/examples.html)
+  - [Robotics System Toolbox&trade;](https://www.mathworks.com/help/robotics/examples.html)
   - [ROS Toolbox](https://www.mathworks.com/help/ros/examples.html)
-  - [Navigation Toolbox](https://www.mathworks.com/help/nav/examples.html)
-  - [Sensor Fusion and Tracking Toolbox](https://www.mathworks.com/help/fusion/examples.html)
-  - [Computer Vision Toolbox](https://www.mathworks.com/help/vision/examples.html)
-  - [Automated Driving Toolbox](https://www.mathworks.com/help/driving/examples.html)
+  - [Navigation Toolbox&trade;](https://www.mathworks.com/help/nav/examples.html)
+  - [Sensor Fusion and Tracking Toolbox&trade;](https://www.mathworks.com/help/fusion/examples.html)
+  - [Computer Vision Toolbox&trade;](https://www.mathworks.com/help/vision/examples.html)
+  - [Automated Driving Toolbox&trade;](https://www.mathworks.com/help/driving/examples.html)
   - [RoadRunner](https://www.mathworks.com/support/search.html?q=&fq=asset_type_name:video%20category:roadrunner/index&page=1)
-  - [Deep Learning Toolbox](https://www.mathworks.com/help/deeplearning/examples.html)
-  - [Reinforcement Learning Toolbox](https://www.mathworks.com/help/reinforcement-learning/examples.html)
-  - [Control System Toolbox](https://www.mathworks.com/help/control/examples.html)
-  - [Simscape](https://www.mathworks.com/help/physmod/simscape/examples.html)
+  - [Deep Learning Toolbox&trade;](https://www.mathworks.com/help/deeplearning/examples.html)
+  - [Reinforcement Learning Toolbox&trade;](https://www.mathworks.com/help/reinforcement-learning/examples.html)
+  - [Control System Toolbox&trade;](https://www.mathworks.com/help/control/examples.html)
+  - [Simscape&trade;](https://www.mathworks.com/help/physmod/simscape/examples.html)
   
 Copyright 2020 The MathWorks, Inc
