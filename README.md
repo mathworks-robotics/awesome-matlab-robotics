@@ -194,7 +194,7 @@ This is a list of awesome demos, tutorials, utilities and overall resources for 
 <tbody>
 <tr class="odd">
 <td><ul>
-<li><a href="https://www.mathworks.com/solutions/aerospace-defense/auv.html">AUV Development with MATLAB and Simulink</a>(<a href="https://www.mathworks.com/videos/design-modeling-and-simulation-of-autonomous-underwater-vehicles-1619636864529.html">Webinar</a>,<a href="https://www.mathworks.com/videos/series/auv-deep-dive.html">Videos</a>,<a href="https://github.com/mathworks-robotics/modeling-and-simulation-of-an-AUV-in-Simulink">GitHub</a>)</li>
+<li><a href="https://www.mathworks.com/solutions/aerospace-defense/auv.html">AUV Development with MATLAB and Simulink </a>(<a href="https://www.mathworks.com/videos/design-modeling-and-simulation-of-autonomous-underwater-vehicles-1619636864529.html">Webinar</a>,<a href="https://www.mathworks.com/videos/series/auv-deep-dive.html"> Videos</a>,<a href="https://github.com/mathworks-robotics/modeling-and-simulation-of-an-AUV-in-Simulink"> GitHub</a>)</li>
 <li><a href="https://www.mathworks.com/videos/matlab-and-simulink-robotics-arena-direction-of-arrival-with-matlab-1504107605701.html">Estimating Direction of Arrival for AUV’s</a></li>
 <li><a href="https://www.mathworks.com/videos/matlab-and-simulink-robotics-arena-from-data-to-model-1518156121608.html">System Identification for Blue Robotics Thrusters</a></li>
 <li><a href="https://www.mathworks.com/videos/matlab-and-simulink-robotics-arena-lqr-control-of-an-autonomous-underwater-vehicle-1543831839770.html">LQR Control of an AUV</a></li>
