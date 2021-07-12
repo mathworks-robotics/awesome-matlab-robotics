@@ -146,6 +146,7 @@ This is a list of awesome demos, tutorials, utilities and overall resources for 
 <li><a href="https://www.mathworks.com/help/robotics/examples/path-planning-in-environments-of-difference-complexity.html">Path Planning Using Probabilistic Road Maps</a></li>
 <li><a href="https://www.mathworks.com/help/nav/ug/path-following-with-obstacle-avoidance-in-simulink.html">Path Following with Obstacle Avoidance</a></li>
 <li><a href="https://www.mathworks.com/help/nav/ug/dynamic-replanning-on-an-indoor-map.html">Dynamic Re-planning of Paths</a></li>
+<li><a href="https://www.mathworks.com/help/nav/ug/choose-path-planning-algorithms-for-navigation.html">Choosing Path Planning Algorithms</a></li>
 </ul></td>
 <td><img src="images/path.png" style="width:1.77083in;height:2.03068in" /></td>
 </tr>
@@ -270,7 +271,7 @@ This is a list of awesome demos, tutorials, utilities and overall resources for 
 <tr class="odd">
 <td><ul>
 <li>Any Robot Running <strong><span class="underline">ROS</span></strong> (See ROS Section)</li>
-<li><a href="https://www.mathworks.com/matlabcentral/fileexchange/65484-kinovarobotics-matlab_kinovaapi_wrapper">Kinova API</a></li>
+<li><a href="https://www.mathworks.com/matlabcentral/fileexchange/78438-robotics-system-toolbox-support-package-for-manipulators">Robotics System Toolbox Support for Manipulators</a></li>
 <li><a href="https://www.mathworks.com/matlabcentral/fileexchange/67323-toyota-human-support-robot-hsr-examples">Toyota HSR Examples</a></li>
 <li><a href="https://www.mathworks.com/matlabcentral/fileexchange/55578-ros-toolbox-support-package-for-turtlebot-based-robots">TurtleBot Robots</a></li>
 <li><a href="https://www.mathworks.com/academia/student-competitions/vex-robotics.html">VEX Robotics</a></li>
