@@ -28,6 +28,7 @@ This is a list of awesome demos, tutorials, utilities and overall resources for 
 <tbody>
 <tr class="odd">
 <td><ul>
+<li><a href="https://www.mathworks.com/matlabcentral/fileexchange/95998-autonomous-navigation-for-mobile-robots-and-ugv">Developing Navigation Stacks for Mobile Robots and UGV</a></li>
 <li><a href="https://www.mathworks.com/help/robotics/examples/simulate-different-kinematic-models-for-mobile-robots.html">Kinematic motion models for simulation</a></li>
 <li><a href="https://www.mathworks.com/help/robotics/examples/control-and-simulate-multiple-warehouse-robots.html">Control and simulation of warehouse robots</a></li>
 <li><a href="https://www.mathworks.com/videos/programming-soccer-robot-behavior-1554386041395.html">Programming of soccer robot behavior (Video)</a></li>
