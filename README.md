@@ -272,7 +272,8 @@ This is a list of awesome demos, tutorials, utilities and overall resources for 
 <tr class="odd">
 <td><ul>
 <li>Any Robot Running <strong><span class="underline">ROS</span></strong> (See ROS Section)</li>
-<li><a href="https://www.mathworks.com/matlabcentral/fileexchange/78438-robotics-system-toolbox-support-package-for-manipulators">Robotics System Toolbox Support for Manipulators</a></li>
+<li><a href="https://www.mathworks.com/matlabcentral/fileexchange/78438-robotics-system-toolbox-support-package-for-kinova-gen3-manipulators">Robotics System Toolbox Support for Kinova Robots</a></li>
+<li><a href="https://www.mathworks.com/matlabcentral/fileexchange/117530-robotics-system-toolbox-support-package-for-universal-robots-ur-series-manipulators">Robotics System Toolbox Support for Universal Robots</a></li>
 <li><a href="https://www.mathworks.com/matlabcentral/fileexchange/67323-toyota-human-support-robot-hsr-examples">Toyota HSR Examples</a></li>
 <li><a href="https://www.mathworks.com/matlabcentral/fileexchange/55578-ros-toolbox-support-package-for-turtlebot-based-robots">TurtleBot Robots</a></li>
 <li><a href="https://www.mathworks.com/academia/student-competitions/vex-robotics.html">VEX Robotics</a></li>
