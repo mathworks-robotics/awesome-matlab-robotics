@@ -57,6 +57,7 @@ This is a list of awesome demos, tutorials, utilities and overall resources for 
 <li><a href="https://www.mathworks.com/help/robotics/trajectory-generation.html">Trajectory Generation</a> (<a href="https://blogs.mathworks.com/racing-lounge/2019/11/06/robot-manipulator-trajectory">Blog</a>, <a href="https://github.com/mathworks-robotics/trajectory-planning-robot-manipulators">GitHub Repo</a>)</li>
 <li><a href="https://www.mathworks.com/help/robotics/examples/perform-safe-trajectory-tracking.html">Safe trajectory planning (Impedance based control)</a></li>
 <li><a href="https://www.mathworks.com/help/robotics/examples/pick-and-place-workflow-using-stateflow.html">Pick and place workflows</a> (<a href="https://www.mathworks.com/help/robotics/examples/pick-and-place-workflow-in-gazebo-using-ros.html">Using Gazebo</a>)</li>
+<li><a href="https://github.com/dqrobotics/learning-dqrobotics-in-matlab/tree/master/robotic_manipulators">Learning Dual Quaternion Modeling and Control for Manipulators(GitHub)</a></li>
 </ul></td>
 <td><img src="images/manip.png" style="width:1.77083in;height:2.03068in" /></td>
 </tr>
