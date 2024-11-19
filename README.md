@@ -29,10 +29,10 @@ This is a list of awesome demos, tutorials, utilities and overall resources for 
 <tr class="odd">
 <td><ul>
 <li><a href="https://github.com/mathworks-robotics/Offroad-Navigation-for-Autonomous-Haul-Trucks">Off-Road Navigation for Autonomous Vehicles</a></li>
+<li><a href="https://github.com/mathworks-robotics/Tractor-Sprayer-Navigation-in-Vineyard">Autonomous Sprayer-Equipped Tractor in Unreal Engine</a></li>
 <li><a href="https://www.mathworks.com/matlabcentral/fileexchange/95998-autonomous-navigation-for-mobile-robots-and-ugv">Developing Navigation Stacks for Mobile Robots and UGV</a></li>
 <li><a href="https://www.mathworks.com/help/robotics/examples/simulate-different-kinematic-models-for-mobile-robots.html">Kinematic motion models for simulation</a></li>
 <li><a href="https://www.mathworks.com/help/robotics/examples/control-and-simulate-multiple-warehouse-robots.html">Control and simulation of warehouse robots</a></li>
-<li><a href="https://www.mathworks.com/videos/programming-soccer-robot-behavior-1554386041395.html">Programming of soccer robot behavior (Video)</a></li>
 <li><a href="https://www.mathworks.com/videos/matlab-and-simulink-robotics-arena-programming-robot-swarms-1539080970349.html">Simulation and programming of robot swarm (Video)</a></li>
 <li>Mapping, Localization and SLAM (<span class="underline">See Section Below</span>)</li>
 <li>Motion Planning and Path Planning (<span class="underline">See Section Below</span>)</li>
