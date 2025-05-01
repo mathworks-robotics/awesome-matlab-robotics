@@ -50,11 +50,11 @@ This is a list of awesome demos, tutorials, utilities and overall resources for 
 <tbody>
 <tr class="odd">
 <td><ul>
-<li><a href="https://www.mathworks.com/help/robotics/robot-models.html">Tools for rigid body tree dynamics and analysis</a></li>
+<li><a href="https://www.mathworks.com/help/robotics/manipulator-modeling.html">Tools for rigid body tree dynamics and analysis</a></li>
 <li><a href="https://www.mathworks.com/help/robotics/inverse-kinematics.html">Inverse Kinematics</a> (<a href="https://blogs.mathworks.com/racing-lounge/2018/04/11/robot-manipulation-part-1-kinematics/">Blog</a> and <a href="https://github.com/mathworks-robotics/designing-robot-manipulator-algorithms">GitHub Repo</a>)</li>
 <li><a href="https://www.mathworks.com/help/robotics/examples/plan-a-reaching-trajectory-with-kinematic-constraints.html">Inverse kinematics with spatial constraints</a></li>
-<li><a href="https://www.mathworks.com/help/robotics/examples/interactively-build-a-trajectory-abb-yumi.html">Interactive Inverse Kinematics</a></li>
-<li><a href="https://www.mathworks.com/help/robotics/collision-detection.html">Collision checking</a> (<a href="https://www.mathworks.com/help/robotics/examples/check-for-manipulator-self-collisions-using-collision-meshes.html">Self-Collisions</a>, <a href="https://www.mathworks.com/help/robotics/examples/check-for-environmental-collisions-with-manipulators.html">Environment Collisions</a>)</li>
+<li><a href="https://www.mathworks.com/help/robotics/ug/design-manipulator-path-for-dispensing-task-ikd.html">Interactive Inverse Kinematics</a></li>
+<li><a href="https://www.mathworks.com/help/robotics/collision-detection.html">Collision checking</a> (<a href="https://www.mathworks.com/help/robotics/examples/check-for-manipulator-self-collisions-using-collision-meshes.html">Self-Collisions</a>)</li>
 <li><a href="https://www.mathworks.com/help/robotics/trajectory-generation.html">Trajectory Generation</a> (<a href="https://blogs.mathworks.com/racing-lounge/2019/11/06/robot-manipulator-trajectory">Blog</a>, <a href="https://github.com/mathworks-robotics/trajectory-planning-robot-manipulators">GitHub Repo</a>)</li>
 <li><a href="https://www.mathworks.com/help/robotics/examples/perform-safe-trajectory-tracking.html">Safe trajectory planning (Impedance based control)</a></li>
 <li><a href="https://www.mathworks.com/help/robotics/examples/pick-and-place-workflow-using-stateflow.html">Pick and place workflows</a> (<a href="https://www.mathworks.com/help/robotics/examples/pick-and-place-workflow-in-gazebo-using-ros.html">Using Gazebo</a>)</li>
@@ -144,7 +144,7 @@ This is a list of awesome demos, tutorials, utilities and overall resources for 
 <tr class="odd">
 <td><ul>
 <li><a href="https://www.mathworks.com/help/nav/motion-planning.html?s_tid=CRUX_lftnav">Motion Planners (RRT, PRM, Hybrid A*)</a></li>
-<li><a href="https://www.mathworks.com/help/nav/ug/motion-planning-with-rrt-for-manipulators.html">RRT Planners for Manipulators</a></li>
+<li><a href="https://www.mathworks.com/help/robotics/ug/pick-and-place-using-rrt-for-manipulators.html">RRT Planners for Manipulators</a></li>
 <li><a href="https://www.mathworks.com/help/nav/ug/plan-mobile-robot-paths-using-rrt.html">RRT Planners for Mobile Robots</a></li>
 <li><a href="https://www.mathworks.com/help/robotics/examples/path-planning-in-environments-of-difference-complexity.html">Path Planning Using Probabilistic Road Maps</a></li>
 <li><a href="https://www.mathworks.com/help/nav/ug/path-following-with-obstacle-avoidance-in-simulink.html">Path Following with Obstacle Avoidance</a></li>
