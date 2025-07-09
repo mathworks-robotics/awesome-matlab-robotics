@@ -204,7 +204,7 @@ This is a list of awesome demos, tutorials, utilities and overall resources for 
 <li><a href="https://www.mathworks.com/videos/matlab-and-simulink-robotics-arena-lqr-control-of-an-autonomous-underwater-vehicle-1543831839770.html">LQR Control of an AUV</a></li>
 <li><a href="https://www.mathworks.com/videos/modeling-and-simulation-of-an-autonomous-underwater-vehicle-1586937688878.html">Dynamics and Control of AUV’s</a> (<a href="https://github.com/mathworks/AUV-modeling-and-sim">GitHub Repo</a>)</li>
 <li><a href="https://blogs.mathworks.com/racing-lounge/2019/03/18/modeling-robotic-boats-in-simulink/">Modeling Robotic Boats in Simulink</a></li>
-<li><a href="https://blogs.mathworks.com/racing-lounge/2018/12/10/vmrc-getting-started/">Simulation and Control of RobotX Challenge WAM-V Boats</a></li>
+<li><a href="https://blogs.mathworks.com/student-lounge/2024/09/12/controller-design-for-a-wave-adaptive-modular-vessel-in-simulink/">Controller Design for Autonomous Boats</a></li>
 </ul></td>
 <td><img src="images/marine.png" style="width:1.77083in;height:2.03068in" /></td>
 </tr>
