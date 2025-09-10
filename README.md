@@ -184,7 +184,7 @@ This is a list of awesome demos, tutorials, utilities and overall resources for 
 <li><a href="https://www.mathworks.com/help/robotics/examples/approximate-high-fidelity-uav-model-with-guidance-model.html">Approximate High-Fidelity UAV models</a></li>
 <li><a href="https://www.mathworks.com/help/robotics/examples/load-and-playback-mavlink-tlog.html">Load and Playback MAVLink TLOG</a></li>
 <li><a href="https://www.mathworks.com/help/robotics/examples/use-mavlink-parameter-protocol.html">Use a MAVLink Parameter Protocol for Tuning UAV Parameters in MATLAB</a></li>
-<li><a href="https://www.mathworks.com/hardware-support/parrot-drone-matlab.html">Support for Parrot Drones</a></li>
+<li><a href="https://www.mathworks.com/hardware-support/parrot-minidrones.html">Support for Parrot Drones</a></li>
 <li><a href="https://www.mathworks.com/hardware-support/px4-autopilots.html">Support for PX4 Autopilots</a></li>
 </ul></td>
 <td><img src="images/uav.png" style="width:1.77083in;height:2.03068in" /></td>
