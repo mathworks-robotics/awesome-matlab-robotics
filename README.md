@@ -106,11 +106,12 @@ This is a list of awesome demos, tutorials, utilities and overall resources for 
 <tbody>
 <tr class="odd">
 <td><ul>
-<li><a href="https://www.mathworks.com/products/computer-vision.html#deep-learning-machine-learning">Deep Learning and Machine Learning</a></li>
-<li><a href="https://www.mathworks.com/products/computer-vision.html#lidar-point-cloud-processing">Lidar and 3D Point Cloud Processing</a></li>
-<li><a href="https://www.mathworks.com/products/computer-vision.html#vision-stereo-vision">3D Vision and Stereo Vision</a></li>
-<li><a href="https://www.mathworks.com/products/computer-vision.html#feature-detection">Feature Detection, Extraction, and Matching</a></li>
-<li><a href="https://www.mathworks.com/products/computer-vision.html#object-tracking">Object Tracking and Motion Estimation</a></li>
+<li><a href="https://www.mathworks.com/solutions/artificial-intelligence/ai-computer-vision.html">AI for Computer Vision</a></li>
+<li><a href="https://www.mathworks.com/help/vision/point-cloud-processing.html">Lidar and 3D Point Cloud Processing</a></li>
+<li><a href="https://github.com/mathworks-robotics/deep-learning-for-3D-object-detection">3D Object Detection with Point Clouds</a></li>
+<li><a href="https://www.mathworks.com/help/vision/structure-from-motion-and-visual-slam.html">3D Vision and Stereo Vision</a></li>
+<li><a href="https://www.mathworks.com/help/vision/feature-detection-and-extraction.html">Feature Detection, Extraction, and Matching</a></li>
+<li><a href="https://www.mathworks.com/help/vision/tracking-and-motion-estimation.html">Object Tracking and Motion Estimation</a></li>
 <li><a href="https://www.mathworks.com/help/nav/ug/estimate-orientation-through-inertial-sensor-fusion.html">Orientation Estimation from Inertial Sensors</a></li>
 <li><a href="https://www.mathworks.com/help/nav/ug/reduce-drift-visual-odom-pose-graph.html">Drift Reduction for Visual Odometry</a></li>
 </ul></td>
