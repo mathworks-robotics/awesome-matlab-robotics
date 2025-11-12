@@ -19,7 +19,7 @@ This is a list of awesome demos, tutorials, utilities and overall resources for 
   * [ROS and Middleware](#ros-and-middleware)
   * [Hardware and Connectivity](#hardware-and-connectivity)
 - [**By Relevant MATLAB Toolboxes**](#by-relevant-matlab-toolboxes)
-
+v
 # By Applications Areas
 
 ## Ground Vehicles and Mobile Robotics
@@ -51,11 +51,11 @@ This is a list of awesome demos, tutorials, utilities and overall resources for 
 <tr class="odd">
 <td><ul>
 <li><a href="https://www.mathworks.com/help/robotics/manipulator-modeling.html">Tools for rigid body tree dynamics and analysis</a></li>
-<li><a href="https://www.mathworks.com/help/robotics/inverse-kinematics.html">Inverse Kinematics</a> (<a href="https://blogs.mathworks.com/racing-lounge/2018/04/11/robot-manipulation-part-1-kinematics/">Blog</a> and <a href="https://github.com/mathworks-robotics/designing-robot-manipulator-algorithms">GitHub Repo</a>)</li>
+<li><a href="https://www.mathworks.com/help/robotics/inverse-kinematics.html">Inverse Kinematics</a> (<a href="https://blogs.mathworks.com/student-lounge/2018/04/11/robot-manipulation-part-1-kinematics/">Blog</a> and <a href="https://github.com/mathworks-robotics/designing-robot-manipulator-algorithms">GitHub Repo</a>)</li>
 <li><a href="https://www.mathworks.com/help/robotics/examples/plan-a-reaching-trajectory-with-kinematic-constraints.html">Inverse kinematics with spatial constraints</a></li>
 <li><a href="https://www.mathworks.com/help/robotics/ug/design-manipulator-path-for-dispensing-task-ikd.html">Interactive Inverse Kinematics</a></li>
 <li><a href="https://www.mathworks.com/help/robotics/collision-detection.html">Collision checking</a> (<a href="https://www.mathworks.com/help/robotics/examples/check-for-manipulator-self-collisions-using-collision-meshes.html">Self-Collisions</a>)</li>
-<li><a href="https://www.mathworks.com/help/robotics/trajectory-generation.html">Trajectory Generation</a> (<a href="https://blogs.mathworks.com/racing-lounge/2019/11/06/robot-manipulator-trajectory">Blog</a>, <a href="https://github.com/mathworks-robotics/trajectory-planning-robot-manipulators">GitHub Repo</a>)</li>
+<li><a href="https://www.mathworks.com/help/robotics/trajectory-generation.html">Trajectory Generation</a> (<a href="https://blogs.mathworks.com/student-lounge/2019/11/06/robot-manipulator-trajectory">Blog</a>, <a href="https://github.com/mathworks-robotics/trajectory-planning-robot-manipulators">GitHub Repo</a>)</li>
 <li><a href="https://www.mathworks.com/help/robotics/examples/perform-safe-trajectory-tracking.html">Safe trajectory planning (Impedance based control)</a></li>
 <li><a href="https://www.mathworks.com/help/robotics/examples/pick-and-place-workflow-using-stateflow.html">Pick and place workflows</a> (<a href="https://www.mathworks.com/help/robotics/examples/pick-and-place-workflow-in-gazebo-using-ros.html">Using Gazebo</a>)</li>
 <li><a href="https://github.com/dqrobotics/learning-dqrobotics-in-matlab/tree/master/robotic_manipulators">Learning Dual Quaternion Modeling and Control for Manipulators(GitHub)</a></li>
@@ -71,7 +71,7 @@ This is a list of awesome demos, tutorials, utilities and overall resources for 
 <tbody>
 <tr class="odd">
 <td><ul>
-<li><a href="https://blogs.mathworks.com/racing-lounge/2019/12/20/walking-robot-modeling-and-simulation/">Modeling and simulation of walking robots</a> (<a href="https://github.com/mathworks-robotics/msra-walking-robot">GitHub Repo</a>)</li>
+<li><a href="https://blogs.mathworks.com/student-lounge/2019/12/20/walking-robot-modeling-and-simulation/">Modeling and simulation of walking robots</a> (<a href="https://github.com/mathworks-robotics/msra-walking-robot">GitHub Repo</a>)</li>
 <li><a href="https://www.mathworks.com/videos/matlab-and-simulink-robotics-arena-walking-robots-pattern-generation-1546434170253.html">Pattern Generation for Walking Robots (Video)</a></li>
 <li><a href="https://www.mathworks.com/videos/model-based-control-of-humanoid-walking-1574399243682.html">Linear Inverted Pendulum Model (LIPM)for humanoid walking (Video)</a></li>
 <li><a href="https://www.mathworks.com/videos/deep-reinforcement-learning-for-walking-robots--1551449152203.html">Deep Reinforcement Learning for Walking Robots (Video)</a></li>
@@ -204,7 +204,7 @@ This is a list of awesome demos, tutorials, utilities and overall resources for 
 <li><a href="https://www.mathworks.com/videos/matlab-and-simulink-robotics-arena-from-data-to-model-1518156121608.html">System Identification for Blue Robotics Thrusters</a></li>
 <li><a href="https://www.mathworks.com/videos/matlab-and-simulink-robotics-arena-lqr-control-of-an-autonomous-underwater-vehicle-1543831839770.html">LQR Control of an AUV</a></li>
 <li><a href="https://www.mathworks.com/videos/modeling-and-simulation-of-an-autonomous-underwater-vehicle-1586937688878.html">Dynamics and Control of AUV’s</a> (<a href="https://github.com/mathworks/AUV-modeling-and-sim">GitHub Repo</a>)</li>
-<li><a href="https://blogs.mathworks.com/racing-lounge/2019/03/18/modeling-robotic-boats-in-simulink/">Modeling Robotic Boats in Simulink</a></li>
+<li><a href="https://blogs.mathworks.com/student-lounge/2019/03/18/modeling-robotic-boats-in-simulink/">Modeling Robotic Boats in Simulink</a></li>
 <li><a href="https://blogs.mathworks.com/student-lounge/2024/09/12/controller-design-for-a-wave-adaptive-modular-vessel-in-simulink/">Controller Design for Autonomous Boats</a></li>
 </ul></td>
 <td><img src="images/marine.png" style="width:1.77083in;height:2.03068in" /></td>
@@ -256,7 +256,7 @@ This is a list of awesome demos, tutorials, utilities and overall resources for 
 <tbody>
 <tr class="odd">
 <td><ul>
-<li><a href="https://blogs.mathworks.com/racing-lounge/2017/11/08/matlab-simulink-ros/?doing_wp_cron=1588711755.3957149982452392578125">Getting Started with MATLAB, Simulink and ROS</a></li>
+<li><a href="https://blogs.mathworks.com/student-lounge/2017/11/08/matlab-simulink-ros/?doing_wp_cron=1588711755.3957149982452392578125">Getting Started with MATLAB, Simulink and ROS</a></li>
 <li><a href="https://www.mathworks.com/help/ros/referencelist.html?type=function">MATLAB support for ROS and ROS 2</a></li>
 <li><a href="https://www.mathworks.com/help/ros/examples.html?category=ros-in-simulink">Simulink Support for ROS and ROS 2</a></li>
 <li><a href="https://www.mathworks.com/help/ros/custom-message-support.html">Support for ROS Custom Messages</a></li>
