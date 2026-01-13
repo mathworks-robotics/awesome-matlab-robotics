@@ -282,7 +282,7 @@ v
 <li><a href="https://www.mathworks.com/academia/student-competitions/vex-robotics.html">VEX Robotics</a></li>
 <li><a href="https://www.mathworks.com/hardware-support/raspberry-pi-matlab.html">Raspberry Pi</a></li>
 <li><a href="https://www.mathworks.com/hardware-support/beaglebone-blue.html">BeagleBone Blue</a></li>
-<li><a href="https://www.mathworks.com/hardware-support/lego-mindstorms-ev3-matlab.html">LEGO Mindstorms</a></li>
+<li><a href="https://www.mathworks.com/matlabcentral/fileexchange/47619-matlab-support-package-for-lego-mindstorms-ev3-hardware">LEGO Mindstorms</a></li>
 <li><a href="https://www.mathworks.com/hardware-support.html">MATLAB and Simulink Hardware Support Packages</a></li>
 </ul></td>
 <td><img src="images/connect.png" style="width:1.77083in;height:2.03068in" /></td>
